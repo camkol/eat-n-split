@@ -35,11 +35,11 @@ Users should be able to:
 
 ## My process
 
-<!-- - The `App` component renders an `Accordion` component and passes an array of FAQ data as props.
-- The `Accordion` component iterates over the FAQ data array and renders an `AccordionItem` component for each FAQ entry.
-- Each `AccordionItem` component represents an FAQ item and manages its own state to control its open/close state.
-- Clicking on an accordion item toggles its open/close state, allowing users to expand or collapse the content.
-- The content of an open accordion item is rendered below its title when it is expanded, providing users with additional information. -->
+- This React application manages a list of friends and allows users to add new friends, view their balances, and split bills with selected friends.
+- The `App` component manages the state for showing the add friend form, the list of friends, and the selected friend for bill splitting.
+- When a friend is selected, it displays a form to split the bill, where users can input the bill amount, their own expense, and select who is paying.
+- Upon submission, the bill is split accordingly, and the balances are updated.
+- The application components are structured to efficiently handle state updates and provide a user-friendly interface for managing friendships and expenses.
 
 ### Built with
 
