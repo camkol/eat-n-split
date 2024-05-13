@@ -19,10 +19,11 @@
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See a list of friends
+- See a list of friends with amounts of money owed to you or them
 - Can add a friend with a new chosen name and random profile name generated
 - Select a friend, split bill window shows
 - Input bill amount, your expense of the bill and friends expense is calculated
+- Use the split button to update the amounts owed to one another
 
 ### Screenshot
 
