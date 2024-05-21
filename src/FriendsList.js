@@ -1,4 +1,4 @@
-import Friend from "./App";
+import Friend from "./Friend";
 
 export default function FriendsList({ friends, onSelection, selectedFriend }) {
   return (
