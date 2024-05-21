@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import Button from "./Button";
 
 export default function FormSplitBill({ selectedFriend, onSplitBill }) {
